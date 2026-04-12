@@ -2,9 +2,7 @@
 A community LEGO-style MOC (My Own Creation) of the Cybran Mantis from Supreme Commander, designed for the Forged Alliance Forever community.
 
 This project recreates the Cybran T1 Assault Bot using standard brick parts (primarily GoBricks / LEGO-compatible). The repository contains everything required to build the model yourself, including design files, instructions, parts lists, and printable packaging.
-
-# Images
-
+![Mantis](https://github.com/IndexLibrorumProhibitorum/FAF_Mantis/blob/main/renders/mantis_model_5.png)
 
 # License
 This project is licensed under
