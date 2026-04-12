@@ -65,8 +65,7 @@ You can also print the instruction manual as a small booklet if desired. The boo
 Additionally, I've included a version where the pages are imposed (placed) in such a way that they can be printed on 3 double-sided A4 sheets (mirrored over the long/vertical edge for double sided printing). After printing, the pages should then be cut in half width-wise, and can then be folded in half, sorted, and stapled.
 
 # Buy me a coffee  
-If you like this project and want to buy me a coffee as a thank you, you can donate with the donate button.
-
+If you like this project and want to buy me a coffee as a thank you, you can make a one-time donation using the `Sponsor` button at the top of this page.
 # Alternatively: Getting a Ready-Made Kit
 If you cannot be bothered to source all parts, prints, and packaging yourself, I'll sell complete kits for 100€ (plus shipping).
 
