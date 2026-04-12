@@ -1,2 +1,83 @@
-# FAF_Mantis
-Archive for all files to create your own LEGO (GoBricks) style MOC of FAF's Cybran T1 bot: Mantis. Made for the FAF community.
+# FAF Cybran Mantis – LEGO/GoBricks Style MOC
+A community LEGO-style MOC (My Own Creation) of the Cybran Mantis from Supreme Commander, designed for the Forged Alliance Forever community.
+
+This project recreates the Cybran T1 Assault Bot using standard brick parts (primarily GoBricks / LEGO-compatible). The repository contains everything required to build the model yourself, including design files, instructions, parts lists, and printable packaging.
+
+# Images
+
+
+# License
+This project is licensed under
+`Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).`
+
+You are free to:
+* Share the files
+* Build the model
+* Modify the design
+* Redistribute derivatives
+
+Under the conditions that:
+* You give attribution
+* You do not sell the design itself
+* You share derivatives under the same license
+
+# Project Contents
+/brickstudio
+* mantis_model.io: Native BrickStudio model file
+
+/instructions
+* mantis_build_manual.pdf: Step-by-step building instructions
+    
+/partslist
+* mantis_partslist.xml: Parts inventory for ordering
+* mantis_partslist.csv: Parts inventory for ordering
+
+/schematics
+* mantis_exploded_view.pdf: Reference diagrams of the build
+    
+/box
+* mantis_box_print_A3.pdf: Printable box design
+* mantis_box.indd: InDesign Sourcefile
+
+/renders
+* Images of the finished model
+
+# Building the Mantis
+To build the model yourself:
+1. Order the parts  
+Use the parts list to order bricks from a supplier such as GoBricks, BrickLink, or Webrick.  
+The parts list files can be imported directly into many brick marketplaces.
+
+2. Download the instructions  
+Use the PDF instruction manual in: `/instructions/mantis_build_manual.pdf`
+
+3. Assemble the model  
+Follow the step-by-step instructions to complete the build.
+
+4. Optional: print the packaging  
+The repository includes a printable box design. To reproduce the box:  
+Print mantis_box_print_A3.pdf on A3 cardstock  
+Cut along the outer lines  
+Fold along the marked folds  
+Glue the tabs  
+
+5. Optional: print the booklet  
+You can also print the instruction manual as a small booklet if desired. The booklet was designed for each page to be A6, though it can naturally be printed larger or smaller. The files include a simple PDF with one booklet page per document page, as well as a version with all pages imposed in such a way that they can be printed on 3 double-sided A4 sheets (mirrored over the long/vertical edge for double sided printing). 
+
+# Buy me a coffee  
+If you like this project and want to buy me a coffee as a thank you, you can donate with the donate button.
+
+# Alternatively: Getting a Ready-Made Kit
+If you cannot be bothered to source all parts, prints, and packaging yourself, I'll sell complete kits for 100€ (plus shipping).
+
+Each kit includes:
+* All bricks required to build the model
+* Instruction booklet
+* Printed and assembled box
+
+If you are interested, contact me through Discord (preferably) or alternatively through the FAF Forum.
+Availability depends on parts supply and demand.
+
+# Attribution
+This project is a fan creation and is not affiliated with LEGO or the original game developers.
+Design of instruction manual, box, and related project files by me, for the FAF community. Mantis model based on and adjusted from a Mantis model posted [on reddit](https://www.reddit.com/r/supremecommander/comments/1l14n2y/lego_mantis/) by namfoodlejax.
