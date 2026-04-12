@@ -1,0 +1,58 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+11089,6213729,11089.dat,Barb / Claw / Horn / Tooth - Large,11,0,Black,Solid Colors,2,0.48
+13547,6039869,13547.dat,"Slope, Curved 4 x 1 Inverted",11,0,Black,Solid Colors,4,1.0
+13548,6426640,13548.dat,Wedge 2 x 2 (Slope 45 Corner),59,320,Dark Red,Solid Colors,1,0
+13548,6176768,13548.dat,Wedge 2 x 2 (Slope 45 Corner),11,0,Black,Solid Colors,3,0.93
+15535,6143850,15535.dat,"Tile, Round 2 x 2 with Hole",11,0,Black,Solid Colors,1,0.32
+2412b,241226,2412b.dat,"Tile, Modified 1 x 2 Grille with Bottom Groove",11,0,Black,Solid Colors,14,0.23
+2412b,4211350,2412b.dat,"Tile, Modified 1 x 2 Grille with Bottom Groove",86,71,Light Bluish Gray,Solid Colors,2,0.23
+2412b,4210631,2412b.dat,"Tile, Modified 1 x 2 Grille with Bottom Groove",85,72,Dark Bluish Gray,Solid Colors,2,0.23
+24201,6147050,24201.dat,"Slope, Curved 2 x 1 x 2/3 Inverted",11,0,Black,Solid Colors,4,0.36
+2431,243126,2431.dat,Tile 1 x 4,11,0,Black,Solid Colors,1,0.54
+2450,4227684,2450.dat,"Wedge, Plate 3 x 3 Cut Corner",11,0,Black,Solid Colors,4,1.08
+26601,6210310,26601.dat,"Wedge, Plate 2 x 2  Cut Corner",59,320,Dark Red,Solid Colors,4,0.5
+3003,300326,3003.dat,Brick 2 x 2,11,0,Black,Solid Colors,1,1.35
+3003,4550359,3003.dat,Brick 2 x 2,104,29,Bright Pink,Solid Colors,1,1.35
+3004,300426,3004.dat,Brick 1 x 2,11,0,Black,Solid Colors,3,0.8
+3004,4517993,3004.dat,Brick 1 x 2,104,29,Bright Pink,Solid Colors,1,0.8
+3020,302026,3020.dat,Plate 2 x 4,11,0,Black,Solid Colors,1,1.2
+3022,302226,3022.dat,Plate 2 x 2,11,0,Black,Solid Colors,1,0.64
+3022,4585479,3022.dat,Plate 2 x 2,59,320,Dark Red,Solid Colors,1,0.64
+3023,4539097,3023b.dat,Plate 1 x 2,59,320,Dark Red,Solid Colors,5,0.36
+3023,302326,3023b.dat,Plate 1 x 2,11,0,Black,Solid Colors,5,0.36
+3031,4243819,3031.dat,Plate 4 x 4,11,0,Black,Solid Colors,3,2.22
+3039,303926,3039.dat,Slope 45 2 x 2,11,0,Black,Solid Colors,4,1.15
+3039,303921,3039.dat,Slope 45 2 x 2,5,4,Red,Solid Colors,2,1.15
+35464,6439560,35464.dat,Slope 45 1 x 1 x 2/3 Double,11,0,Black,Solid Colors,2,0
+3623,362326,3623.dat,Plate 1 x 3,11,0,Black,Solid Colors,4,0.53
+3660,366026,3660b.dat,"Slope, Inverted 45 2 x 2 with Flat Bottom Pin",11,0,Black,Solid Colors,1,0
+3666,366626,3666.dat,Plate 1 x 6,11,0,Black,Solid Colors,4,1.06
+3680c01,9352,3680c01.dat,Turntable 2 x 2 Plate with Light Gray Top (3680 / 3679),11,0,Black,Solid Colors,1,0
+3710,371026,3710.dat,Plate 1 x 4,11,0,Black,Solid Colors,5,0.71
+3747b,6435928,3747b.dat,"Slope, Inverted 33 3 x 2 with Flat Bottom Pin and Connections between Studs",11,0,Black,Solid Colors,1,0
+3795,379526,3795.dat,Plate 2 x 6,11,0,Black,Solid Colors,1,1.74
+3937,393726,3937.dat,Hinge Brick 1 x 2 Base,11,0,Black,Solid Colors,1,0.48
+3938,393826,3938.dat,Hinge Brick 1 x 2 Top Plate,11,0,Black,Solid Colors,1,0.34
+3941,614326,3941.dat,"Brick, Round 2 x 2 with Axle Hole",11,0,Black,Solid Colors,1,1.2
+41769,6008595,41769.dat,"Wedge, Plate 4 x 2 Right",59,320,Dark Red,Solid Colors,2,0.83
+41769,4160866,41769.dat,"Wedge, Plate 4 x 2 Right",5,4,Red,Solid Colors,2,0.83
+41770,6008593,41770.dat,"Wedge, Plate 4 x 2 Left",59,320,Dark Red,Solid Colors,2,0.83
+41770,4161329,41770.dat,"Wedge, Plate 4 x 2 Left",5,4,Red,Solid Colors,2,0.83
+43720,4585505,43720.dat,Wedge 4 x 2 Sloped Right,59,320,Dark Red,Solid Colors,1,1.63
+43721,4585509,43721.dat,Wedge 4 x 2 Sloped Left,59,320,Dark Red,Solid Colors,1,1.63
+43722,6267492,43722.dat,"Wedge, Plate 3 x 2 Right",59,320,Dark Red,Solid Colors,2,0.64
+43723,6267490,43723.dat,"Wedge, Plate 3 x 2 Left",59,320,Dark Red,Solid Colors,2,0.64
+44300,6265712,44300.dat,Hinge Tile 1 x 3 Locking with 1 Finger on Top,11,0,Black,Solid Colors,6,0.58
+44301a,4183043,44301.dat,Hinge Plate 1 x 2 Locking with 1 Finger on End with Bottom Groove,11,0,Black,Solid Colors,8,0.5
+44301b,6266224,44301b.dat,Hinge Plate 1 x 2 Locking with 1 Finger on End without Bottom Groove,11,0,Black,Solid Colors,2,0.5
+44302,6267045,44302.dat,Hinge Plate 1 x 2 Locking with 2 Fingers on End,11,0,Black,Solid Colors,10,0.489
+44567a,4185620,44567.dat,Hinge Plate 1 x 2 Locking with 1 Finger on Side with Bottom Groove,11,0,Black,Solid Colors,2,0.51
+49668,4273590,49668.dat,"Plate, Modified 1 x 1 with Tooth Horizontal",11,0,Black,Solid Colors,4,0.253
+57906,4636410,57906.dat,Hinge Plate 3 x 12 with Angled Side Extensions and Tapered Ends,11,0,Black,Solid Colors,4,3.0
+60471,6266207,60471.dat,Hinge Plate 1 x 2 Locking with 2 Fingers on Side,11,0,Black,Solid Colors,4,0.48
+4073,6514051,6141.dat,"Plate, Round 1 x 1",17,36,Trans-Red,Transparent Colors,37,0.12
+7126,,7126.dat,"Slope, Curved 1 x 1",11,0,Black,Solid Colors,2,0.39
+87087,4558954,87087.dat,"Brick, Modified 1 x 1 with Stud on Side",11,0,Black,Solid Colors,4,0.45
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+189,108.522,,,,,,,,
