@@ -66,16 +66,6 @@ Additionally, I've included a version where the pages are imposed (placed) in su
 
 # Buy me a coffee  
 If you like this project and want to buy me a coffee as a thank you, you can make a one-time donation using the `Sponsor` button at the top of this page.
-# Alternatively: Getting a Ready-Made Kit
-If you cannot be bothered to source all parts, prints, and packaging yourself, I'll sell complete kits for 100€ (plus shipping).
-
-Each kit includes:
-* All bricks required to build the model
-* Instruction booklet
-* Printed and assembled box
-
-If you are interested, contact IndexLibrorum through Discord (preferably) or alternatively through the FAF Forum.
-Availability depends on parts supply and demand.
 
 # Attribution
 This project is a fan creation and is not affiliated with LEGO or the original game developers.
