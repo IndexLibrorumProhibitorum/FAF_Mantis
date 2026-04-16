@@ -66,6 +66,7 @@ Additionally, I've included a version where the pages are imposed (placed) in su
 
 # Buy me a coffee  
 If you like this project and want to buy me a coffee as a thank you, you can make a one-time donation using the `Sponsor` button at the top of this page.
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/IndexLibrorumProhibitorum)
 
 # Attribution
 This project is a fan creation and is not affiliated with LEGO or the original game developers.
