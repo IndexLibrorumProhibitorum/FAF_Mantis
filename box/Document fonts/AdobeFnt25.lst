@@ -1,0 +1,31 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansVariable-Roman
+FamilyName:Source Sans Variable
+StyleName:Roman
+FullName:Source Sans Variable
+MenuName:Source Sans Variable
+FamilyPrefix:SourceSansRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ruben\Documents\GitHub\FAF_Mantis\box\mantis_box package\Document fonts\SourceSansVariable-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:CFF2VariableFont
+FileLength:414588
+FileModTime:1774649348
+WeightClass:200
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Variable
+NameArray:0,Win,1,Source Sans Variable
+%EndFont
+
